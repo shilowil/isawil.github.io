@@ -1,12 +1,12 @@
 ---
 title: Research
 layout: page
-author: Shiloh Williams
+author: Shiloh Cohen Williams
 ---
 
 My research takes a feminist approach to art, technology, and methodology. I am interested in how value is assigned to research practices and how that interacts with gendered assumptions about research validity. Much of my recent research has focused on alternative data practices, or how artists and researchers outside the academy organize, analyze, and visualize their data.
 
-I am currently working on a project about the affective dimensions of internet marketplaces... Stay tuned!
+I am currently working on a project about the affective dimensions of online marketplaces... Stay tuned!
 
 If you would like me to speak in your class or at an event, please reach out to me at [shiloh.pulaski@gmail.com](mailto:shiloh.pulaski@gmail.com).
 
@@ -28,3 +28,9 @@ Digital Library Forum, November 2020
 
 Building together: community and collaboration as data literary competencies [(link)](https://youtu.be/yE46vu_EuHc)
 Southeast Data Librarian Symposium, November 2020
+
+## Recent academic publications
+
+Software Carpentry al dente: Remdering tech training for online artisans. Peace Ossom-Williamson, Shiloh Williams, Hammad Khan. *The Data Literacy Cookbook*, ed. Kelly Getz and Meryl Brodsky, published by the Association of College and Research Libraries, 2022.
+
+Reporting and availability of COVID-19 demographic data by US health departments (April to October 2020): Observational study. Peace Ossom-Williamson, Isaac Williams, Kukhyoung Kim, Tiffany Kindratt. *JMIR Public Health and Surveillance*, 2021.
