@@ -31,6 +31,7 @@ github_username:  isawil
 header_pages:
   - index.markdown
   - research.markdown
+  - photos.markdown
 
 style: dark
 listen_for_clients_preferred_style: true
