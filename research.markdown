@@ -34,3 +34,21 @@ Southeast Data Librarian Symposium, November 2020
 Software Carpentry al dente: Remdering tech training for online artisans. Peace Ossom-Williamson, Shiloh Williams, Hammad Khan. *The Data Literacy Cookbook*, ed. Kelly Getz and Meryl Brodsky, published by the Association of College and Research Libraries, 2022.
 
 Reporting and availability of COVID-19 demographic data by US health departments (April to October 2020): Observational study. Peace Ossom-Williamson, Isaac Williams, Kukhyoung Kim, Tiffany Kindratt. *JMIR Public Health and Surveillance*, 2021.
+
+<!-- Default Statcounter code for Isawil.net
+https://www.isawil.net/ -->
+<script type="text/javascript">
+var sc_project=12339026; 
+var sc_invisible=1; 
+var sc_security="c8f99049"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="website
+statistics" href="https://statcounter.com/"
+target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12339026/0/c8f99049/1/"
+alt="website statistics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
