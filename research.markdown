@@ -4,6 +4,16 @@ layout: page
 author: Shiloh Cohen Williams
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SLDZFZRBG4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SLDZFZRBG4');
+</script>
+
 My research takes a feminist approach to art, technology, and methodology. I am interested in how value is assigned to research practices and how that interacts with gendered assumptions about research validity. Much of my recent research has focused on alternative data practices, or how artists and researchers outside the academy organize, analyze, and visualize their data.
 
 I am currently working on a project about the affective dimensions of online marketplaces... Stay tuned!
