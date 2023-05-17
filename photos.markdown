@@ -4,6 +4,16 @@ layout: page
 author: Shiloh Cohen Williams
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SLDZFZRBG4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SLDZFZRBG4');
+</script>
+
 ![](images/R0000427.jpg)
 
 ![](images/R0000307.jpg)
