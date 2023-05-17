@@ -6,6 +6,16 @@ layout: home
 author: Shiloh Cohen Williams
 ---
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-SLDZFZRBG4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-SLDZFZRBG4');
+</script>
+
 Hello! I am Shiloh Cohen Williams, a writer and photographer from Los Angeles and based in Ontario, Canada. I have a background in information science, data science, and English literature; my academic research focuses on feminist approaches to art, technology, and methodology.
 
 I am also a poet and essayist. My work can be found in journals including Colorado Review, Rust + Moth, Punchnel's, and elsewhere. I have been accepted to poetry workshops led by Tin House and the Kenyon Review.
